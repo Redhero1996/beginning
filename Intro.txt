@@ -1,4 +1,5 @@
-﻿							CÁC LỆNH CƠ BẢN TRONG GITHUB (Add)
+﻿							CÁC LỆNH CƠ BẢN TRONG GITHUB
+	
 1. git init: 
 	+ Tạo một repository mới: git init
 
@@ -44,4 +45,4 @@
 	+ Sử dụng kết quả git với nhiều màu: git config color.ui true
 	+ hiện log trên chỉ một dùng mỗi commit: git config format.pretty oneline
 	+ Sử dụng thêm tập tin tương tác: git add -i
-																							
+																						~~~~~~~~~~ THE END ~~~~~~~~~~	
