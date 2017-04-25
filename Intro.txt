@@ -1,4 +1,4 @@
-﻿							CÁC LỆNH CƠ BẢN TRONG GitHub
+﻿							CÁC LỆNH CƠ BẢN TRONG GITHUB (Add)
 1. git init: 
 	+ Tạo một repository mới: git init
 
